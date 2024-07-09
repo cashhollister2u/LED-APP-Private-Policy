@@ -1,2 +1,4 @@
 # LED-APP-Private-Policy
-Private Policy For LED iOS app
+Private Policy
+
+“No data of any kind is collected, shared, or stored.”
