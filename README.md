@@ -1,3 +1,6 @@
+# Support 
+- Utilize the issues tab to relay app related issues
+
 # LED-APP-Private-Policy
 Private Policy
 
